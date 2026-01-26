@@ -1,51 +1,59 @@
 <h1 align="center">Davi Nunes</h1>
 
 <p align="center">
-  Desenvolvedor Full Stack Júnior em formação • ADS
+  Junior Full Stack Developer in training • Systems Analysis and Development
+</p>
+
+<p align="center">
+  Full Stack • Web Development • JavaScript • PostgreSQL • GitHub Portfolio
 </p>
 
 ---
 
-## 🧩 Stack & Ferramentas
+## 🧩 Tech Stack & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,git,github,nodejs,postgres" />
 </p>
 
 <p align="center">
-  Tecnologias utilizadas em projetos de estudo e aplicações práticas.
+  HTML • CSS • JavaScript • SQL • PostgreSQL • Git • GitHub • Node.js (basic)
 </p>
 
 ---
 
-## 🎯 Foco atual
+## 🎯 Current Focus
 
-- Desenvolvimento Full Stack com JavaScript  
-- Construção de interfaces responsivas  
-- Integração com banco de dados PostgreSQL  
-- Consumo de APIs (nível básico)  
-- Versionamento e organização de projetos  
+- Full Stack Web Development  
+- Front-end Development (Responsive UI, DOM manipulation)  
+- Back-end Fundamentals  
+- REST API consumption (basic level)  
+- Relational Databases (PostgreSQL)  
+- Version Control with Git and GitHub  
 
 ---
 
-## 📊 GitHub em números
+## 🧠 Core Skills
+
+- Problem Solving & Programming Logic  
+- Clean and organized code  
+- Front-end & Back-end integration  
+- SQL queries (CRUD operations)  
+- Basic API integration  
+- Project-based learning  
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=hakizao6074&show_icons=true&theme=tokyonight" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hakizao6074&layout=compact&theme=tokyonight" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=DaviNunes01001&show_icons=true&theme=tokyonight" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviNunes01001&layout=compact&theme=tokyonight" />
 </p>
 
 ---
-
-## 🛠️ Forma de aprendizado
-
-- Aprendo construindo projetos reais  
-- Busco escrever código claro e organizado  
-- Testo, erro, refatoro e melhoro  
-- Evolução constante registrada neste GitHub  
-
 ---
 
 <p align="center">
-  📌 Este repositório reflete meu progresso como desenvolvedor Full Stack Júnior.
+  📌 Junior Full Stack Developer • Open to learning • Building real-world projects
 </p>
