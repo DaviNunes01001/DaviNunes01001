@@ -21,5 +21,5 @@ Basic knowledge in C.
 ---
 
 ### GitHub Stats
-![Davi's GitHub stats](https://github-readme-stats.vercel.app/api?username=hakizao6074&show_icons=true&theme=default)
+![Davi's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaviNunes01001&show_icons=true&theme=default)
 
