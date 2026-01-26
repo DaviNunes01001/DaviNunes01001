@@ -1,25 +1,51 @@
-# Davi Nunes
+<h1 align="center">Davi Nunes</h1>
 
-**Português**  
-Estudante de Análise e Desenvolvimento de Sistemas.  
-Atualmente aprendendo HTML, CSS e SQL (PostgreSQL).  
-Conhecimento básico em C.  
-
-**English**  
-Student of Systems Analysis and Development.  
-Currently learning HTML, CSS, and SQL (PostgreSQL).  
-Basic knowledge in C.  
+<p align="center">
+  Desenvolvedor Full Stack Júnior em formação • ADS
+</p>
 
 ---
 
-### Tecnologias | Technologies
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat) 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat) 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat) 
-![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=flat)
+## 🧩 Stack & Ferramentas
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,nodejs,postgres" />
+</p>
+
+<p align="center">
+  Tecnologias utilizadas em projetos de estudo e aplicações práticas.
+</p>
 
 ---
 
-### GitHub Stats
-![Davi's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaviNunes01001&show_icons=true&theme=default)
+## 🎯 Foco atual
 
+- Desenvolvimento Full Stack com JavaScript  
+- Construção de interfaces responsivas  
+- Integração com banco de dados PostgreSQL  
+- Consumo de APIs (nível básico)  
+- Versionamento e organização de projetos  
+
+---
+
+## 📊 GitHub em números
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=hakizao6074&show_icons=true&theme=tokyonight" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hakizao6074&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🛠️ Forma de aprendizado
+
+- Aprendo construindo projetos reais  
+- Busco escrever código claro e organizado  
+- Testo, erro, refatoro e melhoro  
+- Evolução constante registrada neste GitHub  
+
+---
+
+<p align="center">
+  📌 Este repositório reflete meu progresso como desenvolvedor Full Stack Júnior.
+</p>
