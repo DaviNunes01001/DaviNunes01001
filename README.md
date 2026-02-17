@@ -44,16 +44,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=DaviNunes01001&show_icons=true&theme=tokyonight" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviNunes01001&layout=compact&theme=tokyonight" />
-</p>
-
----
----
-
 <p align="center">
   📌 Junior Full Stack Developer • Open to learning • Building real-world projects
 </p>
