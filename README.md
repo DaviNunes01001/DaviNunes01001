@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-  HTML • CSS • JavaScript • React • Vite • Node.js • Express • SQLite • Python • Git • GitHub
+  HTML • CSS • JavaScript • React • Vite • Node.js • Express • SQLite • Npm • Git • GitHub
 </p>
 
 ---
